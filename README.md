@@ -1,0 +1,2 @@
+# Transaction-Behavior-Analysis-in-Modern-Banking-Systems-using-Python
+Transaction Behavior Analysis in Modern Banking Systems using Python focuses on analyzing banking transactions, digital payments, ATM usage, credit/debit card activity. The project uses data cleaning, exploratory data analysis (EDA), statistical analysis, and visualizations to generate insights into digital banking trends and transaction patterns.
